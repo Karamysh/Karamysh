@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ivan-bitvinus-89aa0b200/">
+    <a href="https://www.linkedin.com/in/ivankaramyshev/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/Bitvinus">
@@ -22,9 +22,9 @@
   
   ### :man_technologist: About Me :
   
-  I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  - :telescope: I’m learning JavaScript and looking for my first fulltime job in programming.
+  - :telescope: I’m learning manual testing and looking for my first fulltime job in QA.
 
   - :seedling: Exploring Technical Content Writing.
 
@@ -39,6 +39,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
