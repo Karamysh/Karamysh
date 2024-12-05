@@ -24,7 +24,7 @@
   
   I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  - :telescope: I’m learning manual testing and looking for my first fulltime job in QA.
+  - :telescope: I'm open for new challenges and opportunities!
 
   - :seedling: Exploring Technical Content Writing.
 
